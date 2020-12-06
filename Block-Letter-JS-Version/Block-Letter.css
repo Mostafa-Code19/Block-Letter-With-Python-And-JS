@@ -1,0 +1,9 @@
+html{
+    background-color: #1c1c22;
+}
+.container .mainContent p{
+    color: gray;
+    font-size: 16px;
+    text-align: center;
+    margin: 20vw 0 0 0;
+}
